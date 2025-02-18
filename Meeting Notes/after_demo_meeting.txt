@@ -1,0 +1,3 @@
+What we are adding
+[Egor] coloring course nodes based on level or whether course is in selected subject
+[Egor+ others?] will look into highlighting the path to get to a specific course

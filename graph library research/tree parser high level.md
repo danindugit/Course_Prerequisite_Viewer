@@ -1,0 +1,1 @@
+for each course in the database

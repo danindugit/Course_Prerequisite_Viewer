@@ -1,0 +1,9 @@
+.navbar{
+    margin-top: 1rem;
+    width: 100vw;
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-evenly;
+    color: rgb(90, 90, 90);
+    background-color: #373737;
+}

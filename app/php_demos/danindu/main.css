@@ -1,0 +1,12 @@
+h1 {
+   text-align: center;
+}
+
+.header-image {
+   max-height: 400px;
+}
+
+.sports-logo {
+   min-height: 240px;
+   max-height: 250px;
+}

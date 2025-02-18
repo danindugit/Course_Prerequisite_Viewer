@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    color: grey;
+}
+
+a:active {
+    color: white;
+}
+
+
+a:visited {
+    color: white;
+}
+
+.navbar{
+    margin-top: 1rem;
+    width: 100vw;
+    display: flex;
+    font-size: 2rem;
+    justify-content: space-evenly;
+    color: white;
+    background-color: #373737;
+}

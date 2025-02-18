@@ -1,0 +1,7 @@
+gitlab ci/cd attempts
+
+git pull https://gitlab.socs.uoguelph.ca/cis3760_f23/f23_cis3760_402.git Sprint9
+git pull https://aseifert:password@gitlab.socs.uoguelph.ca/cis3760_f23/f23_cis3760_402.git Sprint9
+git pull https://aseifert:passwordR@gitlab.socs.uoguelph.ca/cis3760_f23/f23_cis3760_402/-/tree/Sprint9/
+
++ ssh research

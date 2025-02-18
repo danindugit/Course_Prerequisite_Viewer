@@ -1,0 +1,11 @@
+.body_div {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div.feature_div img {
+    width:60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
